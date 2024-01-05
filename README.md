@@ -1,3 +1,5 @@
+[![Read Paper](https://img.shields.io/badge/Read-Paper-blue)](https://github.com/Gaurang111/Vegetable-Classification/blob/main/Paper.pdf)
+
 # Vegetable Classification and Recipe Recommendation Project
 
 Welcome to the Vegetable Classification and Recipe Recommendation project! This project seamlessly blends machine learning, web deployment, and web scraping to offer users an engaging experience of identifying vegetables and discovering top-rated recipes.
