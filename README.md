@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Gaurang111/Vegetable-Classification/blob/main/Vegetable_classification.ipynb)
 [![Read Paper](https://img.shields.io/badge/Read-Paper-blue)](https://github.com/Gaurang111/Vegetable-Classification/blob/main/Paper.pdf)
 
 # Vegetable Classification and Recipe Recommendation Project
