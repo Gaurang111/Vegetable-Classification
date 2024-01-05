@@ -39,11 +39,35 @@ Welcome to the Vegetable Classification and Recipe Recommendation project! This 
 
 ## Web Application
 
+1. **Start by selecting:** Begin the process by choosing to either upload a picture or take one using the camera.
+
 <img src="images/1.png" width=800>
+
+
+3. **Choose picture:** Select an image from local storage, then click "Add" to initiate the prediction process.
+
 <img src="images/2.png" width=800>
 <img src="images/3.png" width=800>
+
+3. **Take picture:** Open the camera, capture an image, and click "Add" to predict the vegetable.
+
 <img src="images/4.png" width=800>
 <img src="images/5.png" width=800>
+
+4. **Add vegetable name manually:** Optionally, manually input the vegetable's name.
+
 <img src="images/6.png" width=800>
+
+5. **Hit get recipe button:** Trigger the recipe recommendation by clicking the "Get Recipe" button. Receive a list of recipes along with video links associated with the identified vegetable. Explore nutritional facts about the vegetable from the U.S. Department of Agriculture's official website.
+
 <img src="images/7.png" width=800>
+
+
+
+
+
+
+
+
+
 
